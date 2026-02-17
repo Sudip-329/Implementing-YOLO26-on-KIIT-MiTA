@@ -22,14 +22,14 @@ The goal was to benchmark YOLOv26-nano on challenging aerial defense imagery and
 - The Nano model is capable of detecting small objects such as soldiers and artillery units with impressive confidence scores.
 - Real-time inference was achieved on edge devices, demonstrating efficiency and accuracy.
 
-![Example Detection](output_nano.jpg)  
+![Example Detection](nano_output.jpg)  
 *Figure 1: Example validation batch from KIIT-MiTA dataset*
 
 ---
 
 ## 🔗 Links
 
-- **Dataset:** [Insert Dataset Link Here]  
+- **Dataset:** [(https://kiit-mita.netlify.app/)]  
 - **Code:** [Insert Code Link Here]  
 - **Paper / Reference:** [Insert Paper Link Here]  
 
