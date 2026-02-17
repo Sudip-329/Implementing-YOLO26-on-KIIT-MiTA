@@ -35,24 +35,6 @@ The goal was to benchmark YOLOv26-nano on challenging aerial defense imagery and
 
 ---
 
-## ⚡ How to Run
-
-1. Clone this repository:
-    ```bash
-    git clone https://github.com/yourusername/YOLOv26-KIIT-MiTA.git
-    ```
-2. Download the dataset from the link above.
-3. Install required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-4. Run inference:
-    ```bash
-    python run_inference.py --model yolov26-nano --data path_to_dataset
-    ```
-
----
-
 ## 📢 Notes
 
 - This repository is intended for **research and benchmarking purposes**.
