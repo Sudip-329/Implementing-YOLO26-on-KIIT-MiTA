@@ -23,7 +23,7 @@ The goal was to benchmark YOLOv26-nano on challenging aerial defense imagery and
 - Real-time inference was achieved on edge devices, demonstrating efficiency and accuracy.
 
 ![Example Detection](nano_output.jpg)  
-*Figure 1: Example validation batch from KIIT-MiTA dataset*
+*Figure 1: Example validation batch from KIIT-MiTA dataset (YOLO26nano)*
 
 ---
 
@@ -31,7 +31,7 @@ The goal was to benchmark YOLOv26-nano on challenging aerial defense imagery and
 
 - **Dataset:** (https://kiit-mita.netlify.app/)
 - **Code:** (https://www.kaggle.com/code/sudipchakrabarty/yolo26-nano-kiit-mita-dataset-object-detection) 
-- **Previous Paper: (https://ieeexplore.ieee.org/document/10969335) 
+- **Previous Paper:** (https://ieeexplore.ieee.org/document/10969335) 
 
 ---
 
