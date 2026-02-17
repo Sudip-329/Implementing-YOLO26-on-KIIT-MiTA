@@ -1,4 +1,4 @@
-# YOLOv26-nano on KIIT-MiTA Dataset
+# YOLO26 on KIIT-MiTA Dataset
 
 🚀 **Testing YOLOv26-nano on Military Drone Imagery**
 
