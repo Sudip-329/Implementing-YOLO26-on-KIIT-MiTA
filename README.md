@@ -31,7 +31,7 @@ The goal was to benchmark YOLOv26-nano on challenging aerial defense imagery and
 
 - **Dataset:** (https://kiit-mita.netlify.app/)
 - **Code:** (https://www.kaggle.com/code/sudipchakrabarty/yolo26-nano-kiit-mita-dataset-object-detection) 
-- **Paper / Reference:** [Insert Paper Link Here]  
+- **Previous Paper: (https://ieeexplore.ieee.org/document/10969335) 
 
 ---
 
